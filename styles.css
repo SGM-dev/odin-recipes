@@ -1,5 +1,10 @@
 * {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
 }
 
 .cts-index {
