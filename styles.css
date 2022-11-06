@@ -4,7 +4,7 @@
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .cts-index {
@@ -17,4 +17,9 @@ h1 {
 
 .zt-index {
   color: rgb(69, 107, 12);
+}
+
+img {
+  height: auto;
+  width: 500px;
 }
